@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13461718212",
+    "project_id": "mr-bot-5fe83",
+    "storage_bucket": "mr-bot-5fe83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13461718212:android:c9c699a6ea1a35e6f83591",
+        "android_client_info": {
+          "package_name": "com.mwinzi.mrbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13461718212-flfdkvtvuigoshg8kmgl7pa6b2b50vvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRozlBuuxbCQJfpqnUNySCp2X-qqdT3wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13461718212-flfdkvtvuigoshg8kmgl7pa6b2b50vvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
